@@ -1,0 +1,29 @@
+[
+  {
+    "title": "House Price Prediction",
+    "category": "machine-learning",
+    "description": "A machine learning-based web application that predicts house prices using property-related features.",
+    "technologies": ["Python", "FastAPI", "Machine Learning", "HTML", "CSS"],
+    "liveUrl": "https://house-prediction-model-sfe6.onrender.com/",
+    "githubUrl": "https://github.com/KASHYAPCHETAN438/House-Prediction-Model-",
+    "image": "assets/images/projects/house-price.png"
+  },
+  {
+    "title": "Water Pollution Prediction System",
+    "category": "machine-learning",
+    "description": "A machine learning-based system designed to analyze water quality parameters and predict water pollution levels.",
+    "technologies": ["Python", "Flask", "React", "MySQL", "Machine Learning"],
+    "liveUrl": "https://water-pollution-prediction.onrender.com",
+    "githubUrl": "https://github.com/KASHYAPCHETAN438/Water-Pollution-Prediction",
+    "image": "assets/images/projects/Water_Polloution.png"
+  },
+  {
+    "title": "Corporate Financial Performance Dashboard",
+    "category": "data",
+    "description": "An interactive dashboard developed to analyze business sales, profitability and financial performance.",
+    "technologies": ["Python", "Pandas", "SQL", "Power BI", "Streamlit", "Excel"],
+    "liveUrl": "https://datascienceworkspace-nsazmoh5appka4wzaji6gr6.streamlit.app/",
+    "githubUrl": "https://github.com/KASHYAPCHETAN438/DataScienceWorkspace",
+    "image": "assets/images/projects/financial-dashboard.png"
+  }
+]
