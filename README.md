@@ -1,31 +1,24 @@
 # Chetan — Personal Portfolio
 
-A responsive, static software engineer portfolio built with HTML5, CSS3 and vanilla JavaScript.
+Responsive static portfolio built with HTML5, CSS3 and vanilla JavaScript.
+
+<br>
+
+<img width="1352" height="652" alt="image" src="https://github.com/user-attachments/assets/48efa3b2-457c-4265-a140-fbc3dadd14a3" />
+
+
+<br><br>
+
+
 
 ## Run locally
 
-Open `index.html` directly in a browser, or run a local static server:
+Open `index.html` in a browser, or run:
 
 ```powershell
-python -m http.server 8000
+Start index.html
 ```
 
-Then visit `http://localhost:8000`.
+<br>
 
-## Deploy to GitHub Pages
-
-1. Create or use the repository `KASHYAPCHETAN438.github.io`.
-2. Push the project contents to the repository's `main` branch.
-3. Open **Settings → Pages**.
-4. Set **Source** to **Deploy from a branch**, select `main` and `/ (root)`.
-5. Save and wait for GitHub Pages to publish.
-
-The site is available at `https://kashyapchetan438.github.io/`.
-
-## Assets still needed
-
-- Replace the zero-byte `assets/images/profile.jpg` with Chetan's profile photo.
-- Replace the zero-byte `assets/images/about.jpg` with Chetan's preferred about image.
-- Confirm NASSCOM Data Science certificate availability; no certificate file is currently mapped.
-
-The contact form intentionally provides validation only. It does not send or store messages because no backend or third-party form service is configured.
+🔗 **Live:** [https://kashyapchetan438.github.io/](https://kashyapchetan438.github.io/)
